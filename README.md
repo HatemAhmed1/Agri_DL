@@ -1,5 +1,6 @@
-Still Developing (Learning)
+Still Developing this project (Learning)
 
+I used SF24 Dataset -- available in kaggle
 
 Tried SAC (not working)
 
