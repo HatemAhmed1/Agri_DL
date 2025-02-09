@@ -2,8 +2,10 @@ Still Developing this project (Learning)
 
 I used SF24 Dataset -- available in kaggle
 
-Tried SAC (not working)
+Started with Q-Learning ( 9% reduction in cost)
 
-Started with Q-Learning
+Update : DQN (15% reduction in overall cost)
 
-Stored the q_values in pickle file
+Update : on-policy A2C is better for irrigation problems as it is continuous than DQN off-policy 
+
+A2C (40 reduction in cost)
